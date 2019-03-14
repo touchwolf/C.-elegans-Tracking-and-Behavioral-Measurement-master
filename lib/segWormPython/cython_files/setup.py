@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 13 18:16:50 2015
 
-@author: ajaver
+@author: travix
 """
 from distutils.core import setup
 from distutils.extension import Extension
